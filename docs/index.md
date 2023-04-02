@@ -40,8 +40,8 @@ College Student, Aspiring Programmer
 - Familiar: HTML, CSS, JavaScript, C++
 - Moderate: Python, SQL
 ### Programs/Applications
-- Familiar: paint.net, OBS,
-- Moderate: Google Sheets, VS Code, Discord
+- Familiar: paint.net, OBS, SQL Workbench,
+- Moderate: Google Sheets, Google Docs, Google Forums, VS Code, Discord
 ### Service/Volunteer Work 
 - Team/Community Manager
 
