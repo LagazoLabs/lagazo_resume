@@ -20,6 +20,11 @@ College Student, Aspiring Programmer
 - National Honors Society
 - 4 Year AVID Student
 - Varsity Tennis Player
+- Table Top Club
+- Debate Club
+- Key Club
+- Asian American Club
+- Solar Boat
 ### Mt. San Jacinto College | 2019 - 2021
 - Completed 26 Credits through Dual Enrollment
 ### Brigham Young University-Idaho | 2021 - Present
@@ -30,6 +35,7 @@ College Student, Aspiring Programmer
 
 ### Personal Qualities
 - Creative/Imaginative: Idea Generator
+- Data Driven/Analytial: Often use data/statistics to propose ideas/back up arguments.
 ### Programming
 - Familiar: HTML, CSS, JavaScript, C++
 - Moderate: Python, SQL
@@ -52,7 +58,4 @@ College Student, Aspiring Programmer
 - College Graduate
 
 <!-- ### Footer
-
 Last updated: March 2023 -->
-
-
